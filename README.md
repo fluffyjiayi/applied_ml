@@ -1,4 +1,4 @@
-# applied ml lab 1
+# Applied ML Lab 1
 In this project, we used a data-driven approach to attempt to predict the world population of the year 2122. Our final estimation was 10.7 billion people.
 
 *population.cvs* is the only dataset used for this project. It is from the World Bank (https://data.worldbank.org/indicator/SP.POP.TOTL?most_recent_year_desc=true)
